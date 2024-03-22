@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.container{
+   position: relative;
+   width: 100%;
+   background-color: black;
+}
+.container h1{
+    color: #fff;
+    margin-left: 40px;
+}
+.container img{
+    height: 100px;
+    width: 150px;
+}
+.container h1{
+    margin-left: -25px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+nav{
+    display: flex;
+    width: 100%;
+    padding: 20px 0;
+}
+nav ul{
+    margin-left: 40px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    color: #fff;
+    font-size: 20px;
+    padding-top: 5px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: orange;
+}
+.btn{
+    margin-left: 780px;
+}
+button{
+    padding: 15px 20px;
+    border-radius: 6px;
+    background-color: lightskyblue;
+    font-weight: bold;
+    border: none;
+}
+.container button:hover{    
+    background-color: black;
+    color: white;
+}
+#first{
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 400px;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.image{
+    background-image: url("https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/04/67d09-bangalore.jpg?fit=1000%2C667&ssl=1");
+    background-size: cover;
+    border-radius: 10px;
+    width: 1000px;
+    height: 500px;
+}
+.syntex{
+    padding-left: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+.syntex h1{
+    font-size: 50px;
+}
+.syntex p{
+    font-size: 20px;
+}
+.syntex button{
+    margin-top: 20px;
+    margin-left: -2px;
+    border: none;
+}
+.syntex button:hover{    
+    background-color: black;
+    color: white;
+}
+.partner{
+    clear: both;
+    text-align: center;
+    padding-top: 25px;
+}
+.partner h4{
+    font-size: 25px;
+}
+.photos{
+    margin-top: 20px;
+    text-align: center;
+    word-spacing: 100px;
+    padding-bottom: 50px;
+  }
+  .photos img{
+    display: inline;
+    height: 150px;
+    width: 150px;
+   text-align: center;
+  }
+  #feacher{
+    background-color: gainsboro;
+    padding-bottom: 90px;
+    font-family: sans-serif;
+}
+#feacher h2{
+    padding-top: 100px;
+    padding-left: 270px;
+    font-size: 30px;
+}
+.main{
+    background-color: gainsboro;
+    display: flex;
+    margin-top: 30px;
+    padding-left: 270px;
+}
+.card{
+    background-color: white;
+    margin-right: 20px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.card img{
+    width: 90px;
+    height: 90px;
+}
+.card h3{
+    font-size: 30px;
+}
+  footer{
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    background-color: #000;
+    width: 100%;
+    color: white;
+  }
+  #ftup{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(150, 150, 98);
+    padding-top: 20px;
+  }
+#ftup img{
+    width: 50px;
+    height: 70px;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+.A{
+    margin-left: 890px;
+}
+.mix{
+    display: flex;
+    padding-top: 20px;
+    text-align: center;
+}
+.one{
+    margin-left: 400px;
+}
+.two{
+    margin-left: 270px;
+}
+.three{
+    margin-left: 300px;
+}
+.mix p{
+    padding-left: -20px;
+}
+.mix1{
+    padding-top: 20px;
+    display: flex;
+}
+.first{
+   margin-left: 350px;
+}
+.second{
+    margin-left: 90px;
+    text-align: center;
+}
+.third{
+    text-align: center;
+    margin-left: 200px;
+}
+.third img{
+    padding: 5px;
+}
+.second p{
+    word-spacing: 40px;
+}
+.mix1 h1{
+    padding: 30px 0;
+}
+.mix1 h2{
+    padding: 20px 0;
+}
+.tour{
+ display: flex;
+}
